@@ -11,6 +11,10 @@ export {
 } from "./Marker";
 
 export {
+  default as MarkerWithLabel,
+} from "./MarkerWithLabel";
+
+export {
   default as Rectangle,
 } from "./Rectangle";
 
